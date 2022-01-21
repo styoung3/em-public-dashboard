@@ -1,3 +1,6 @@
+# MacOS file system
+*.DS_Store
+
 # Custom excludes
 viz_scripts/conf
 plots
@@ -133,4 +136,3 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
-.DS_Store
